@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2853DD34-AB67-9DA6-6140-7970A5EB9B0E}|..\\..\\DOTNET\\Project\\Entities\\Entities.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\dotnet\\project\\entities\\concrete\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2853DD34-AB67-9DA6-6140-7970A5EB9B0E}|..\\..\\DOTNET\\Project\\Entities\\Entities.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\dotnet\\project\\entities\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4216103-5695-4A5A-AA0E-3BCECF23624D}|WebAPI\\WebAPI.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\proje\\project\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4216103-5695-4A5A-AA0E-3BCECF23624D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B02E77-49F4-70A5-187A-5A9FC278E847}|..\\..\\DOTNET\\Project\\Core\\Core.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\dotnet\\project\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2853DD34-AB67-9DA6-6140-7970A5EB9B0E}|..\\..\\DOTNET\\Project\\Entities\\Entities.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\dotnet\\project\\entities\\dto\u0027s\\cardetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A12902-436C-E1DB-683B-3523E1695AA4}|..\\..\\DOTNET\\Project\\DataAccess\\DataAccess.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\dotnet\\project\\dataaccess\\concrete\\entityframework\\efcardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA7A20B-C977-27C0-D676-197D2E1BAC5E}|..\\..\\DOTNET\\Project\\Business\\Business.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\dotnet\\project\\business\\abstract\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA7A20B-C977-27C0-D676-197D2E1BAC5E}|..\\..\\DOTNET\\Project\\Business\\Business.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\dotnet\\project\\business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4216103-5695-4A5A-AA0E-3BCECF23624D}|WebAPI\\WebAPI.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\proje\\project\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4216103-5695-4A5A-AA0E-3BCECF23624D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4216103-5695-4A5A-AA0E-3BCECF23624D}|WebAPI\\WebAPI.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\proje\\project\\webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4216103-5695-4A5A-AA0E-3BCECF23624D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A12902-436C-E1DB-683B-3523E1695AA4}|..\\..\\DOTNET\\Project\\DataAccess\\DataAccess.csproj|c:\\users\\kurtu\\onedrive\\masa\u00FCst\u00FC\\dotnet\\project\\dataaccess\\abstract\\icardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Entities\\Concrete\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOTNET\\Project\\Entities\\Concrete\\Customer.cs",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Entities\\Concrete\\Customer.cs",
+              "RelativeToolTip": "..\\..\\DOTNET\\Project\\Entities\\Concrete\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:59:27.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Entities\\Concrete\\Car.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOTNET\\Project\\Entities\\Concrete\\Car.cs",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Entities\\Concrete\\Car.cs",
+              "RelativeToolTip": "..\\..\\DOTNET\\Project\\Entities\\Concrete\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:59:26.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\Project\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\Project\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T16:57:25.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFentityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Core\\DataAccess\\EntityFramework\\EFentityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOTNET\\Project\\Core\\DataAccess\\EntityFramework\\EFentityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Core\\DataAccess\\EntityFramework\\EFentityRepositoryBase.cs",
+              "RelativeToolTip": "..\\..\\DOTNET\\Project\\Core\\DataAccess\\EntityFramework\\EFentityRepositoryBase.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:51:01.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Entities\\DTO\u0027s\\CarDetailsDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOTNET\\Project\\Entities\\DTO\u0027s\\CarDetailsDto.cs",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Entities\\DTO\u0027s\\CarDetailsDto.cs",
+              "RelativeToolTip": "..\\..\\DOTNET\\Project\\Entities\\DTO\u0027s\\CarDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:43:10.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFCarDal.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\DataAccess\\Concrete\\EntityFramework\\EFCarDal.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOTNET\\Project\\DataAccess\\Concrete\\EntityFramework\\EFCarDal.cs",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\DataAccess\\Concrete\\EntityFramework\\EFCarDal.cs",
+              "RelativeToolTip": "..\\..\\DOTNET\\Project\\DataAccess\\Concrete\\EntityFramework\\EFCarDal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:40:28.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICarDal.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\DataAccess\\Abstract\\ICarDal.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOTNET\\Project\\DataAccess\\Abstract\\ICarDal.cs",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\DataAccess\\Abstract\\ICarDal.cs",
+              "RelativeToolTip": "..\\..\\DOTNET\\Project\\DataAccess\\Abstract\\ICarDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:40:17.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Business\\Concrete\\CarManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOTNET\\Project\\Business\\Concrete\\CarManager.cs",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Business\\Concrete\\CarManager.cs",
+              "RelativeToolTip": "..\\..\\DOTNET\\Project\\Business\\Concrete\\CarManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:40:07.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Business\\Abstract\\ICarService.cs",
+              "RelativeDocumentMoniker": "..\\..\\DOTNET\\Project\\Business\\Abstract\\ICarService.cs",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\DOTNET\\Project\\Business\\Abstract\\ICarService.cs",
+              "RelativeToolTip": "..\\..\\DOTNET\\Project\\Business\\Abstract\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:39:54.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\Project\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\Project\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:32:13.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\Project\\WebAPI\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\kurtu\\OneDrive\\Masa\u00FCst\u00FC\\PROJE\\Project\\WebAPI\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:31:14.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
